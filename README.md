@@ -1,2 +1,3 @@
-## This is the GIT Tutorial by Krish Naik
+## This is my Git learning
+
 
